@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120" width="220" height="120">
+  <!-- Outer border -->
+  <rect x="1" y="1" width="218" height="118" rx="2" ry="2" fill="none" stroke="#2d4e82" stroke-width="2"/>
+  <!-- Blue background -->
+  <rect x="8" y="8" width="204" height="104" rx="3" ry="3" fill="#2d4e82"/>
+
+  <!-- Letter S (left) -->
+  <g fill="white">
+    <!-- Top bar of first S -->
+    <path d="M18 22 Q18 16 24 16 L72 16 Q80 16 80 24 Q80 30 74 30 L30 30 Q26 30 26 34 L26 46 Q26 50 30 50 L76 50 Q84 50 84 58 L84 74 Q84 82 76 82 L24 82 Q16 82 16 74 Q16 68 22 68 L70 68 Q74 68 74 64 L74 52 Q74 48 70 48 L24 48 Q16 48 16 40 L16 28 Q16 22 18 22Z"/>
+  </g>
+
+  <!-- Letter S (middle) -->
+  <g fill="white">
+    <path d="M94 22 Q94 16 100 16 L148 16 Q156 16 156 24 Q156 30 150 30 L106 30 Q102 30 102 34 L102 46 Q102 50 106 50 L152 50 Q160 50 160 58 L160 74 Q160 82 152 82 L100 82 Q92 82 92 74 Q92 68 98 68 L146 68 Q150 68 150 64 L150 52 Q150 48 146 48 L100 48 Q92 48 92 40 L92 28 Q92 22 94 22Z"/>
+  </g>
+
+  <!-- Letter D (right) -->
+  <g fill="white">
+    <path d="M168 16 L196 16 Q214 16 214 34 L214 64 Q214 82 196 82 L168 82 Q168 82 168 16Z M178 28 L178 70 L194 70 Q202 70 202 62 L202 36 Q202 28 194 28Z"/>
+  </g>
+
+  <!-- Light reflection stripes on letters -->
+  <rect x="16" y="16" width="68" height="8" rx="2" fill="rgba(255,255,255,0.18)"/>
+  <rect x="92" y="16" width="68" height="8" rx="2" fill="rgba(255,255,255,0.18)"/>
+  <rect x="168" y="16" width="46" height="8" rx="2" fill="rgba(255,255,255,0.18)"/>
+</svg>
